@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Oswald:wght@300;400;500&family=Roboto:wght@300&display=swap");
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+#img {
+  height: 700px;
+  border: 2px solid black;
+  position: relative;
+}
+
+h1 {
+  color: white;
+  font-family: "Dancing Script", cursive;
+  font-size: 40px;
+}
+.top-left {
+  margin: 20px;
+  position: absolute;
+}
